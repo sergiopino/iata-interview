@@ -1,0 +1,50 @@
+[
+  {
+    "flight_no": 12,
+    "terminal": 342,
+    "covid": true,
+    "boarded": 14
+  },
+  {
+    "flight_no": 14,
+    "terminal": 24,
+    "covid": false,
+    "boarded": 44
+  },
+  {
+    "flight_no": 55,
+    "terminal": 12,
+    "covid": true,
+    "boarded": 67
+  },
+  {
+    "flight_no": 12,
+    "terminal": 342,
+    "covid": true,
+    "boarded": 23
+  },
+  {
+    "flight_no": 26,
+    "terminal": 24,
+    "covid": false,
+    "boarded": 59
+  },
+  {
+    "flight_no": 444,
+    "terminal": 1,
+    "covid": false,
+    "boarded": 67
+  },
+  {
+    "flight_no": 67,
+    "terminal": 3,
+    "covid": true,
+    "boarded": 66
+  },
+  {
+    "flight_no": 666,
+    "terminal": 11,
+    "covid": false,
+    "boarded": 57
+  }
+]
